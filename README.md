@@ -1,9 +1,8 @@
-<<<<<<< HEAD
-# WechatPayDemo
+WechatPayDemo
+=============
 
----
-
-这是转过来的，挺好，
+iOS微信支付demo  转过来的，挺好，
+-----------------
 
 这是非官方的微信支付Demo，基于微信SDK1.4.1构建，可以从[这里](https://open.weixin.qq.com/cgi-bin/frame?t=resource/res_main_tmpl&lang=zh_CN)下载到最新的官方iOS开发资料。(里面的参数都是从Android版Demo中提取)
 
@@ -72,9 +71,6 @@ NSMutableDictionary params = [NSMutableDictionary dictionary]; [params setObject
 ---
 
 可能我的理解水平比较低，最后是看着Android的Demo才能顺利跑通，所以希望这个Repo能帮到同样是iOS的开发者，如果有什么建议的话也希望提交issue讨论，不过重点声明```本人不负任何责任```:]
-=======
-WechatPayDemo
-=============
 
-iOS微信支付demo
->>>>>>> f7dcb7b6a3aeeabf78f58c8452886ef4da9e5a3e
+
+
