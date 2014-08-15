@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # WechatPayDemo
 
 ---
@@ -71,3 +72,9 @@ NSMutableDictionary params = [NSMutableDictionary dictionary]; [params setObject
 ---
 
 可能我的理解水平比较低，最后是看着Android的Demo才能顺利跑通，所以希望这个Repo能帮到同样是iOS的开发者，如果有什么建议的话也希望提交issue讨论，不过重点声明```本人不负任何责任```:]
+=======
+WechatPayDemo
+=============
+
+iOS微信支付demo
+>>>>>>> f7dcb7b6a3aeeabf78f58c8452886ef4da9e5a3e
